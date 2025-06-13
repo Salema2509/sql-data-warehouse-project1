@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics project
 
-Welcome to the **Data Warehouse and Analytics Project** repoitory!
+Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio projects, it highlights industry best practices in data engineering and analytics.
 
 ---
@@ -33,6 +33,6 @@ These insights emnpowr stakeholders eith key business metrics, enabling strategi
 
 ## About Me 
 
-Hi there! I Am **Gervásio Sambo Lelo Mavungo**, widly known as **Data Eith Baraa**. I data enthusiast, I discover tis not long ago then i decide to embark in this journey with zero knowlodge how is to be a dat analysis with great passon and dedication I started learning and understanding concepts to be one, and youtube has been a great tool for to develop my skills and I do not never want to stop learning aboiut data.  
+Hi there! I Am **Gervásio Sambo Lelo Mavungo**. I am data enthusiast, I discover this not long ago then I decide to embark in this journey with zero knowlodge how it looks like to be a data analysis with great passion, dedication and opness to learn, I started learning and understanding concepts bihind every metric, and youtube has been a great tool for me to develop my skills and I also started learning friom others sources, I do not never want to stop learning about data.  
 
 
